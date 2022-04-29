@@ -27,7 +27,7 @@ function Contact() {
                     <h2 class="h-2" id="connect-ribbon"><span class="black teal" id="connect-h">Connect.</span></h2>
                 </div>
                 <div id="connect-links">
-                    <a class="social-icon" href="mailto:annabrown998@gmail.com">
+                    <a class="social-icon" href="mailto:annabrown.dev@gmail.com">
                         <OverlayTrigger placement="bottom" delay={{ show: 0, hide: 400 }} overlay={email}>
                             <Envelope className="icon-spacing" id="first" alt="email icon" />
                         </OverlayTrigger>
