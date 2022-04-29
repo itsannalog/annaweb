@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.66bc065b.css",
+    "main.css": "/static/css/main.fbb3de19.css",
     "main.js": "/static/js/main.561e0891.js",
     "static/media/bottom-right.png": "/static/media/bottom-right.61e2824111593b8714a2.png",
     "static/media/top-left.png": "/static/media/top-left.9179145f93811d6d6cbc.png",
@@ -9,11 +9,11 @@
     "static/media/corsair-tilecard.jpg": "/static/media/corsair-tilecard.91b2e4880b1b18abfca8.jpg",
     "static/media/contact-ribbon.png": "/static/media/contact-ribbon.51290fc28c21ee6e0646.png",
     "index.html": "/index.html",
-    "main.66bc065b.css.map": "/static/css/main.66bc065b.css.map",
+    "main.fbb3de19.css.map": "/static/css/main.fbb3de19.css.map",
     "main.561e0891.js.map": "/static/js/main.561e0891.js.map"
   },
   "entrypoints": [
-    "static/css/main.66bc065b.css",
+    "static/css/main.fbb3de19.css",
     "static/js/main.561e0891.js"
   ]
 }
