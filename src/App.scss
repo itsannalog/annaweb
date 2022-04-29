@@ -1,0 +1,490 @@
+// BRANDING
+// ==================================================
+@import url('https://fonts.googleapis.com/css2?family=Bungee&family=Bungee+Outline&family=Roboto&display=swap');
+
+$header-font: 'Bungee';
+$body-font: 'Roboto';
+$outline: 'Bungee Outline';
+
+$blue: #79E3D1;
+$pink: #FFA2C8;
+$purple: #B99AFF;
+$teal: #0d7e7c;
+
+#main{
+    background-color: black;
+    color: white;
+    font-family: $body-font;
+    font-size: 20px;
+}
+
+.outline{
+    font-family: $outline !important;
+}
+
+.blue{
+    background-color: $blue !important;
+}
+
+.pink{
+    background-color: $pink !important;
+}
+
+.teal{
+    background-color: $teal !important;
+}
+
+.purple{
+    background-color: $purple !important;
+}
+
+.black{
+    color: black !important;
+}
+.white{
+    color: white !important;
+}
+.black-bg{
+    background: black !important;
+}
+
+.light-gray{
+    color: #b8b8b8 !important;
+}
+
+.dark-gray{
+    color: #4b4b4b !important;
+}
+
+.ribbon p{
+    margin-bottom:0;
+}
+
+a {
+    text-decoration: none !important;
+    color: white !important;
+}
+
+.social-icon:hover{
+    color: $blue !important;
+}
+
+.header{
+    font-family: $header-font !important;
+    font-size: 65px !important;
+}
+
+.h-1{
+    font-family: $header-font;
+    font-size: 60px !important;
+    margin: 0;
+}
+
+.h-2{
+    font-family: $header-font;
+    font-size: 50px !important;
+    margin: 0;
+}
+
+.h-3{
+    font-family: $header-font;
+    font-size: 30px !important;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.btn{
+    border:none !important;
+    border-radius: 0 !important;
+    padding: 5px 10px !important;
+}
+
+.btn:focus {
+    box-shadow:none;
+}
+
+
+// UTIL
+// ==================================================
+
+.mobile{
+    display: none;
+}
+
+.desktop{
+    display: block;
+}
+
+.wrapper{
+    width: 90%;
+    margin: auto;
+}
+
+.wide-wrapper{
+    width: 97%;
+    margin: auto;
+}
+
+.section{
+    padding: 2vw 0;
+    width:100%;
+}
+
+.box-half{
+    display: inline-block;
+    width: 45%; 
+    vertical-align: middle;
+}
+
+.box-short{
+    display: inline-block;
+    width: 45%;
+    vertical-align: middle;
+}
+
+.box-wide{
+    display: inline-block;
+    width: 55%;
+    vertical-align: middle;
+}
+
+.offset{
+    right:0;
+}
+
+.align-right{
+    text-align: right;
+}
+
+.icon-spacing{
+    margin: 0 4px 2px 25px;
+}
+
+#first.icon-spacing{
+    margin-left: 4px;
+}
+
+.vertical-spacer{
+    margin: 1%;
+}
+
+.cta{
+    font-family: $header-font;
+    font-size: 30px !important;
+
+}
+
+.center{
+    text-align: center;
+}
+
+.link-blue:hover{
+    color: $teal !important;
+}
+.link-pink:hover{
+    color: $pink !important;
+}
+.link-purple:hover{
+    color: $purple !important;
+}
+
+
+
+// NAVBAR
+// ==================================================
+
+.nav-bar{
+    background-color: transparent !important;
+}
+.nav-link{
+    color: #ffffff !important;
+    font-weight: bold;
+    padding: 0.5rem 1.5rem !important;
+}
+.nav-link:hover{
+    color: $purple !important;
+}
+.dropdown-menu{
+    background-color: rgb(29, 29, 29) !important;
+}
+.dropdown-item{
+    color: white !important;
+}
+.dropdown-item:hover{
+    background-color: $pink !important;
+    color: black !important;
+}
+
+// INTRO
+// ==================================================
+
+#intro{
+    background: #000 url('./images/top-left.png') top left;
+    padding-top: 5px;
+}
+
+// PFP
+.true-right{
+    position: relative;
+    right: -4.5%;
+}
+#pfp{
+    padding-top: 15%;
+}
+
+#anna{
+    margin-bottom: 2%;
+}
+
+
+
+// PROJECT CARDS
+// ==================================================
+
+#projects-header{
+    margin: 2% 0 1% 0;
+}
+
+.proj-card{
+    border-radius: 0 !important;
+    margin: 3% 0;
+}
+
+.card-img, .card-img-overlay{
+    border-radius: 0 !important;
+}
+
+
+.proj-title{
+    background-color: black;
+    color: white;
+    position: absolute;
+    top: 5%;
+    left: 0;
+    padding: 0 10px 0 2px;
+}
+
+.proj-title h3{
+    margin: 5px 0;
+}
+
+.proj-btn{
+    background-color: black !important;
+    color: white !important;
+    position: absolute;
+    bottom: 5%;
+    right: 0;
+    text-align: right;
+}
+
+.proj-btn:hover{
+    color: $blue !important;
+}
+
+.proj-btn p{
+    margin: 0;
+    font-size: 22px;
+}
+
+.smallIcon{
+    padding: 1px;
+    margin: 0 0 1px 0;
+}
+
+.smallerIcon {
+    padding: 3px;
+    margin: 0 0 6px 0;
+}
+
+.prj-break{
+    display:none;
+}
+
+// connect
+// ==================================================
+#connect-h{
+    display:inline-block;
+    z-index: 3;
+    font-family: $header-font !important;
+    margin: 0 15px;
+    -webkit-box-shadow: 0px 0px 25px 10px #000000; 
+    box-shadow: 0px 0px 25px 10px #000000;
+}
+
+#lower-section{
+    background: #000 url('./images/bottom-right.png') bottom right no-repeat;
+    background-size: contain;
+}
+
+#connect-links{
+    font-size: 50px;
+    padding: 20px 0;
+}
+
+#connect-ribbon{
+    background: url('./images/contact-ribbon.png') center no-repeat;
+    background-size: cover;
+}
+
+#connect-wrapper{
+    margin-bottom: 3%;
+}
+
+
+// MORE PROJECTS OVERVIEW
+// ==================================================
+.overview-card-left{
+    margin-right: 10%;
+    margin-left: 0;
+}
+.overview-card-right{
+    margin-left: 10%;
+    margin-right: 0;
+}
+
+.align-top{
+    vertical-align: top !important;
+}
+
+.desc-txt{
+    padding: 15px;
+}
+
+.desc-btn{
+    font-size: 20px !important;
+}
+
+
+.ocard-title{
+    background-color: black;
+    color: white;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width:100%;
+}
+
+.ocard-desc{
+    background-color: rgba(0, 0, 0, 0.6);
+    color:rgb(223, 223, 223);
+    padding: 7px;
+    position: absolute;
+    top: 3em;
+    left: 0;
+    width:100%;
+}
+
+.ocard-btn{
+    background-color: black !important;
+    color: white;
+    position: absolute;
+    bottom: 15px;
+    right: 15px;
+    text-align: right;
+    font-size: 20px !important;
+}
+
+
+// TAG SCROLLING
+// ==================================================
+.slideanim {visibility:hidden;}
+.slide {
+    animation-name: slide;
+    -webkit-animation-name: slide;
+    animation-duration: 1s;
+    -webkit-animation-duration: 1s;
+    visibility: visible;
+}
+@keyframes slide {
+    0% {
+        opacity: 0;
+        transform: translateY(70%);
+    } 
+    100% {
+        opacity: 1;
+        transform: translateY(0%);
+    }
+}
+@-webkit-keyframes slide {
+    0% {
+        opacity: 0;
+        -webkit-transform: translateY(70%);
+    } 
+    100% {
+        opacity: 1;
+        -webkit-transform: translateY(0%);
+    }
+}
+
+
+
+
+// MOBILE
+// ==================================================
+@media screen and (max-width: 1200px) {
+    .prj-break{
+        display:inline;
+    }
+}
+
+
+@media screen and (max-width: 1000px) {
+    .box-wide, .box-short{
+        width: 50%;
+    }
+}
+
+
+@media screen and (max-width: 768px) {
+
+    .desktop{
+        display: none;
+    }
+
+    .mobile{
+        display: block;
+    }
+
+    .box-wide, .box-short{
+        width: 100%;
+    }
+
+    .align-right{
+        text-align: left;
+    }
+
+    .overview-card-left{
+        margin-right: 0;
+    }
+    .overview-card-right{
+        margin-left: 0;
+    }
+
+    .true-right{
+        right: 0;
+    }
+    #pfp{
+        padding: 10% 0 3% 0;
+    }
+    #connect-ribbon{
+        background: $pink;
+        width: 90%;
+        margin:auto;
+    }
+    #connect-h{
+        -webkit-box-shadow: 0px 0px 0px 0px rgba(0,0,0,0); 
+        box-shadow: 0px 0px 0px 0px rgba(0,0,0,0);
+    }
+    #projects-header{
+        text-align: center;
+    }
+}
+
+@media screen and (max-width: 375px) {
+    .box-half{
+        width: 100%;
+    }
+ 
+}
