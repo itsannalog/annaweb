@@ -1,16 +1,19 @@
 {
   "files": {
-    "main.css": "/annaweb/static/css/main.073c9b0a.css",
-    "main.js": "/annaweb/static/js/main.abb88907.js",
-    "static/js/787.4d7fa0c9.chunk.js": "/annaweb/static/js/787.4d7fa0c9.chunk.js",
-    "static/media/logo.svg": "/annaweb/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/annaweb/static/css/main.713c3976.css",
+    "main.js": "/annaweb/static/js/main.8c6ad36a.js",
+    "static/media/bottom-right.png": "/annaweb/static/media/bottom-right.61e2824111593b8714a2.png",
+    "static/media/top-left.png": "/annaweb/static/media/top-left.9179145f93811d6d6cbc.png",
+    "static/media/more-tilecard.jpg": "/annaweb/static/media/more-tilecard.945e8100dc79f1d71a2c.jpg",
+    "static/media/gloomstar-tilecard.jpg": "/annaweb/static/media/gloomstar-tilecard.b9f7ef2720b22440e7d9.jpg",
+    "static/media/corsair-tilecard.jpg": "/annaweb/static/media/corsair-tilecard.91b2e4880b1b18abfca8.jpg",
+    "static/media/contact-ribbon.png": "/annaweb/static/media/contact-ribbon.51290fc28c21ee6e0646.png",
     "index.html": "/annaweb/index.html",
-    "main.073c9b0a.css.map": "/annaweb/static/css/main.073c9b0a.css.map",
-    "main.abb88907.js.map": "/annaweb/static/js/main.abb88907.js.map",
-    "787.4d7fa0c9.chunk.js.map": "/annaweb/static/js/787.4d7fa0c9.chunk.js.map"
+    "main.713c3976.css.map": "/annaweb/static/css/main.713c3976.css.map",
+    "main.8c6ad36a.js.map": "/annaweb/static/js/main.8c6ad36a.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.abb88907.js"
+    "static/css/main.713c3976.css",
+    "static/js/main.8c6ad36a.js"
   ]
 }
