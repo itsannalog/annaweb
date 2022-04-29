@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/annaweb/static/css/main.713c3976.css",
-    "main.js": "/annaweb/static/js/main.8c6ad36a.js",
-    "static/media/bottom-right.png": "/annaweb/static/media/bottom-right.61e2824111593b8714a2.png",
-    "static/media/top-left.png": "/annaweb/static/media/top-left.9179145f93811d6d6cbc.png",
-    "static/media/more-tilecard.jpg": "/annaweb/static/media/more-tilecard.945e8100dc79f1d71a2c.jpg",
-    "static/media/gloomstar-tilecard.jpg": "/annaweb/static/media/gloomstar-tilecard.b9f7ef2720b22440e7d9.jpg",
-    "static/media/corsair-tilecard.jpg": "/annaweb/static/media/corsair-tilecard.91b2e4880b1b18abfca8.jpg",
-    "static/media/contact-ribbon.png": "/annaweb/static/media/contact-ribbon.51290fc28c21ee6e0646.png",
-    "index.html": "/annaweb/index.html",
-    "main.713c3976.css.map": "/annaweb/static/css/main.713c3976.css.map",
-    "main.8c6ad36a.js.map": "/annaweb/static/js/main.8c6ad36a.js.map"
+    "main.css": "/static/css/main.66bc065b.css",
+    "main.js": "/static/js/main.d068aabf.js",
+    "static/media/bottom-right.png": "/static/media/bottom-right.61e2824111593b8714a2.png",
+    "static/media/top-left.png": "/static/media/top-left.9179145f93811d6d6cbc.png",
+    "static/media/more-tilecard.jpg": "/static/media/more-tilecard.945e8100dc79f1d71a2c.jpg",
+    "static/media/gloomstar-tilecard.jpg": "/static/media/gloomstar-tilecard.b9f7ef2720b22440e7d9.jpg",
+    "static/media/corsair-tilecard.jpg": "/static/media/corsair-tilecard.91b2e4880b1b18abfca8.jpg",
+    "static/media/contact-ribbon.png": "/static/media/contact-ribbon.51290fc28c21ee6e0646.png",
+    "index.html": "/index.html",
+    "main.66bc065b.css.map": "/static/css/main.66bc065b.css.map",
+    "main.d068aabf.js.map": "/static/js/main.d068aabf.js.map"
   },
   "entrypoints": [
-    "static/css/main.713c3976.css",
-    "static/js/main.8c6ad36a.js"
+    "static/css/main.66bc065b.css",
+    "static/js/main.d068aabf.js"
   ]
 }
